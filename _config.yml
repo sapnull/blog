@@ -17,6 +17,7 @@ title: SAPNull Blog
 description: >- 
   A blog for notes, ideas, and project references. Thanks for stopping by...
 url: "https://sapnull.github.io/blog"
+baseurl: "https://sapnull.github.io/blog"
 github_username:  sapnull
 words_per_minute: 200
 minimal_mistakes_skin: dirt
@@ -58,6 +59,7 @@ plugins:
 author:
   name: "SAPNull"
   avatar: "assets/images/sapnull.jpg"
+
   bio: "IT Engineer/Arch, FOSS advocate, all-around technologist."
   location: "US"
   links:
