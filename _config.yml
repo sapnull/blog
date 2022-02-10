@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SamArcis | SAPNull Blog
+title: SAPNull Blog
 description: >- 
   A blog for notes, ideas, and project references. Thanks for stopping by...
-url: "https://blog.samarcis.com"
+url: "https://sapnull.github.io/blog"
 github_username:  sapnull
 words_per_minute: 200
 minimal_mistakes_skin: dirt
@@ -59,7 +59,7 @@ author:
   name: "SAPNull"
   avatar: "assets/images/sapnull.jpg"
   bio: "IT Engineer/Arch, FOSS advocate, all-around technologist."
-  location: "Somewhere, USA"
+  location: "US"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

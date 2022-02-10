@@ -1,6 +1,6 @@
 ---
 toc: true
-title: "Welcome to the SAPNull Blog @ SamArcis!"
+title: "Welcome to the SAPNull Blog!"
 date: 2020-11-18 21:34:39 -0500
 categories:
   - blog
